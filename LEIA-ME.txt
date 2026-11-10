@@ -1,0 +1,7 @@
+PUBLICAÇÃO GRATUITA
+1. Crie um repositório público no GitHub.
+2. Envie index.html, manifest.json, service-worker.js e icon.svg para a raiz.
+3. GitHub: Settings > Pages > Deploy from a branch > main > /(root) > Save.
+4. Abra o endereço HTTPS gerado no Chrome Android e escolha Instalar aplicativo/Adicionar à tela inicial.
+
+A tela ativa usa Screen Wake Lock: precisa de HTTPS e suporte do navegador. O sistema pode liberar o bloqueio por economia de bateria. O alerta sonoro é sintetizado no navegador; teste pelo botão após tocar na página.
